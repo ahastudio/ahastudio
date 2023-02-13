@@ -2,4 +2,4 @@
 
 - 🏠 https://ahastudio.com/
 - 🏢 https://dal-lab.com/
-- 📺 https://youtube.com/ahastudio
+- 📺 https://youtube.com/@ahastudio
